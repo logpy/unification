@@ -65,4 +65,4 @@ Author
 
 
 .. _LogPy: http://github.com/logpy/logpy/
-.. _`Matthew Rocklin: http://matthewrocklin.com/
+.. _`Matthew Rocklin`: http://matthewrocklin.com/
